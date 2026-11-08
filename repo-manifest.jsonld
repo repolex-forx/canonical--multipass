@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/canonical/multipass/commit/382a0eef82f2028cb5e3475a48304f73a6f19b7a",
       "git:hexsha": "382a0eef82f2028cb5e3475a48304f73a6f19b7a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T15:15:16.739769+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/multipass/commit/4329b7dcfa69c652449130e991cb5823d2cc4ea0",
